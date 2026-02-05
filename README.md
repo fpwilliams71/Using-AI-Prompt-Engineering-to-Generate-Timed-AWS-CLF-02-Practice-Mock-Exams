@@ -2,8 +2,7 @@
 Using AI Prompt Engineering to Generate Timed AWS CLF-02 Practice Mock Exams (Best Run in Gemini, Supported in ChatGPT)
 
 **AWS CLF-02 - Timed Mock Exam Prompt** 
-"
-'''
+
 Please create a full-length timed mock exam that closely mirrors the real AWS Certified Cloud Practitioner exam experience. 
 Ensure the questions are simulated interactively. 
 
@@ -26,7 +25,7 @@ Ensure the questions are simulated interactively.
 - Include brief explanations for each correct answer 
 - Optionally highlight common exam traps or misconceptions 
 - Maintain a difficulty level and pacing consistent with the actual AWS exam.
-'''
+
 "
 
 **NOTE**: AI doesn't replace study, but when used intentionally, it is a massive accelerator for readiness.
